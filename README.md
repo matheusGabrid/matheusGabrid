@@ -5,8 +5,6 @@
 - 💬 telefone: (11)91550-1060
 - 📫 e-mail: matheusgabrid@gmail.com
 
-![Snake animation](matheusGabrid)
-
 ##
 
 <div style="display: inline_block"><br>
