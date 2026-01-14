@@ -1,7 +1,7 @@
  
  ##  👋Olá, me chamo Matheus Gabriel!
 - 🌱 PUC/A.D.S.
-- 🤔 Js,Python,HTML,SQL/SSMS,CSS...
+- 🔳 Js,Python,HTML,SQL/SSMS,CSS...
 - 💬 telefone: (11)91550-1060
 - 📫 e-mail: matheusgabrid@gmail.com
 
